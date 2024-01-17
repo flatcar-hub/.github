@@ -1,0 +1,1 @@
+Welcome to the Flatcar HUB! The [Flatcar Container Linux](https://github.com/flatcar) project uses this organisation to collaborate with upstream projects, submit patches and new features.
